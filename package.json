@@ -2,7 +2,7 @@
   "name": "authooze",
   "version": "1.0.0",
   "description": "Authooze is a package to make auth system in vue framework and with ready backend or your backend.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AmrSaher/authooze-js/issues"
   },
-  "homepage": "https://github.com/AmrSaher/authooze-js#readme"
+  "homepage": "https://github.com/AmrSaher/authooze-js#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
