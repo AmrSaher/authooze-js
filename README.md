@@ -1,4 +1,4 @@
-<p align="center"><img width="200" height="200" src="logo.png" alt="Authooze logo"></p>
+<p align="center"><img width="200" height="200" src="src/assets/logo.png" alt="Authooze logo"></p>
 
 # authooze-js
 Authooze is a package to make auth system in vue framework and with ready backend or your backend.
