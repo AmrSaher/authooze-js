@@ -7,3 +7,9 @@ Authooze is a package to make auth system in vue framework and with ready backen
 ![npm](https://img.shields.io/npm/v/authooze.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AmrSaher/authooze-js.svg)
 ![npm](https://img.shields.io/npm/dt/authooze.svg?color=green&style=popout)
+
+# Requirements
+//
+
+# Documentation
+//
